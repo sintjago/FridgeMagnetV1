@@ -1,0 +1,51 @@
+<select id="fontOption">
+  <option value="single">Single Font</option>
+  <option value="multi">Multi Font</option>
+  <!-- Original Fonts -->
+  <option value="Arial" style="font-family: Arial;">Arial</option>
+  <option value="Verdana" style="font-family: Verdana;">Verdana</option>
+  <option value="Helvetica" style="font-family: Helvetica;">Helvetica</option>
+  <option value="Georgia" style="font-family: Georgia;">Georgia</option>
+  <option value="Times New Roman" style="font-family: 'Times New Roman';">Times New Roman</option>
+  <option value="Courier New" style="font-family: 'Courier New';">Courier New</option>
+  <option value="Trebuchet MS" style="font-family: 'Trebuchet MS';">Trebuchet MS</option>
+  <option value="Lucida Sans" style="font-family: 'Lucida Sans';">Lucida Sans</option>
+  <option value="Tahoma" style="font-family: Tahoma;">Tahoma</option>
+  <option value="Impact" style="font-family: Impact;">Impact</option>
+  <option value="Comic Sans MS" style="font-family: 'Comic Sans MS';">Comic Sans MS</option>
+  <option value="Palatino" style="font-family: Palatino;">Palatino</option>
+  <option value="Garamond" style="font-family: Garamond;">Garamond</option>
+  <option value="Bookman" style="font-family: Bookman;">Bookman</option>
+  <option value="Arial Black" style="font-family: 'Arial Black';">Arial Black</option>
+  <option value="Candara" style="font-family: Candara;">Candara</option>
+  <option value="Century Gothic" style="font-family: 'Century Gothic';">Century Gothic</option>
+  <option value="Gill Sans" style="font-family: 'Gill Sans';">Gill Sans</option>
+  <option value="Calibri" style="font-family: Calibri;">Calibri</option>
+  <option value="Geneva" style="font-family: Geneva;">Geneva</option>
+  <!-- Additional Fonts -->
+  <option value="Roboto" style="font-family: Roboto;">Roboto</option>
+  <option value="Montserrat" style="font-family: Montserrat;">Montserrat</option>
+  <option value="Raleway" style="font-family: Raleway;">Raleway</option>
+  <option value="Lora" style="font-family: Lora;">Lora</option>
+  <option value="Oswald" style="font-family: Oswald;">Oswald</option>
+  <option value="Open Sans" style="font-family: 'Open Sans';">Open Sans</option>
+  <option value="Playfair Display" style="font-family: 'Playfair Display';">Playfair Display</option>
+  <option value="Poppins" style="font-family: Poppins;">Poppins</option>
+  <option value="Bebas Neue" style="font-family: 'Bebas Neue';">Bebas Neue</option>
+  <option value="Merriweather" style="font-family: Merriweather;">Merriweather</option>
+  <option value="Ubuntu" style="font-family: Ubuntu;">Ubuntu</option>
+  <option value="Fira Sans" style="font-family: 'Fira Sans';">Fira Sans</option>
+  <option value="Inconsolata" style="font-family: Inconsolata;">Inconsolata</option>
+  <option value="Nunito" style="font-family: Nunito;">Nunito</option>
+  <option value="Pacifico" style="font-family: Pacifico;">Pacifico</option>
+  <option value="Josefin Sans" style="font-family: 'Josefin Sans';">Josefin Sans</option>
+  <option value="Lobster" style="font-family: Lobster;">Lobster</option>
+  <option value="Caveat" style="font-family: Caveat;">Caveat</option>
+  <option value="Dancing Script" style="font-family: 'Dancing Script';">Dancing Script</option>
+  <option value="Abril Fatface" style="font-family: 'Abril Fatface';">Abril Fatface</option>
+  <option value="Anton" style="font-family: Anton;">Anton</option>
+  <option value="Zilla Slab" style="font-family: 'Zilla Slab';">Zilla Slab</option>
+  <option value="Oxygen" style="font-family: Oxygen;">Oxygen</option>
+  <option value="Arvo" style="font-family: Arvo;">Arvo</option>
+  <option value="PT Serif" style="font-family: 'PT Serif';">PT Serif</option>
+</select>
